@@ -1,0 +1,17 @@
+mistakes that I have commited in this template and its solution
+1. I shouldn't change wrapper width, instead I will use padding in x axis
+2. Need to use grid as much as posible instead of flex
+3. need to use transform: translateX(-50%)
+4. always select elements with class
+
+
+feedback from Arafat
+transiction in btns, seo for web design, menu dropdown, address line heght, web logo, icon a tag, a in quick link
+
+1. add transiction in buttons (done)
+2. drop down in menu
+3. line height in bottom address (done)
+4. height and weight need to be reduced in web logo icons (done)
+5. all icon must in a tag (done)
+6. a in quick link (done)
+
